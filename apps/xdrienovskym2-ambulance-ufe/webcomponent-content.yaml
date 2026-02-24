@@ -1,0 +1,11 @@
+apiVersion: polyfea.github.io/v1alpha1
+kind: WebComponent
+metadata:
+  name: xdrienovskym2-ambulance-ufe-content
+spec:
+  microFrontend: xdrienovskym2-ambulance-ufe
+  element: xdrienovskym2-ambulance-wl-list
+  displayRules:
+    - allOf:
+      - context-name: main-content
+      - path: "^(\\.?/)?xdrienovskym2-ambulance-wl(/.*)?$"
