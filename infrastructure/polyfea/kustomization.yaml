@@ -3,7 +3,7 @@ kind: Kustomization
 
 resources:
   - https://github.com/polyfea/manifests//controller 
-  - https://github.com/polyfea/manifests//md-shell 
+  - https://github.com/polyfea/manifests//md-shell
 
 patches:
   - path: ./patches/service.yaml
