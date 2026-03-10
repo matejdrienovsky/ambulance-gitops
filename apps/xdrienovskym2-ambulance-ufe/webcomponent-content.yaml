@@ -6,6 +6,11 @@ spec:
   microFrontend: xdrienovskym2-ambulance-ufe
   element: xdrienovskym2-ambulance-wl-app
   attributes:
+    - name: api-base
+      value: http://localhost:5008/api
+    - name: ambulance-id
+      value: bobulova
+  attributes:
     - name: base-path
       value: /xdrienovskym2-ambulance-wl/
   displayRules:
