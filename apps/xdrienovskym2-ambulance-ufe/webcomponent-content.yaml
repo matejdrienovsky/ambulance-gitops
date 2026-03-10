@@ -4,7 +4,10 @@ metadata:
   name: xdrienovskym2-ambulance-ufe-content
 spec:
   microFrontend: xdrienovskym2-ambulance-ufe
-  element: xdrienovskym2-ambulance-wl-list
+  element: xdrienovskym2-ambulance-wl-app
+  attributes:
+    - name: base-path
+      value: /xdrienovskym2-ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
