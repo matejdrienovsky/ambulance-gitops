@@ -9,3 +9,6 @@ labels:
 
 resources:
 - ../../../apps/xdrienovskym2-ambulance-ufe
+
+components:
+- ../../../components/version-developers
