@@ -7,7 +7,7 @@ spec:
   element: xdrienovskym2-ambulance-wl-app
   attributes:
     - name: api-base
-      value: http://localhost:30081/api
+      value: /xdrienovskym2-api
     - name: ambulance-id
       value: bobulova
     - name: base-path
