@@ -6,4 +6,4 @@ images:
   newTag: main.20260421.1054 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
 - name: <docker-id>/ambulance-wl-webapi
   newName: matejdrienovsky/ambulance-wl-webapi # {"$imagepolicy": "wac-hospital:ambulance-webapi:name"}
-  newTag: main.20260331.1308 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+  newTag: main.20260421.1055 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
