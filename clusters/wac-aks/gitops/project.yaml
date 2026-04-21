@@ -6,7 +6,7 @@ spec:
   title: "Zoznam cakajucich xdrienovskym2"
   description: "Spravuje zoznam pacientov cakajucich na vysetrenie v ambulancii"
   authors: "Matej Drienovsky"
-  azureLink: "https://wac-hospital.westeurope.cloudapp.azure.com/fea"
+  azureLink: "https://wac-hospital.azurewebsites.net"
   frontendRepoUrl: "https://github.com/matejdrienovsky/ambulance-ufe"
   backendRepoUrl: "https://github.com/matejdrienovsky/ambulance-webapi"
   gitopsRepoUrl: "https://github.com/matejdrienovsky/ambulance-gitops"
