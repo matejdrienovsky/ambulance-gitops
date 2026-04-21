@@ -4,6 +4,6 @@ images:
 - name: matejdrienovsky/ambulance-ufe
   newName: matejdrienovsky/ambulance-ufe
   newTag: 1.0.3
-- name: matejdrienovsky/ambulance-wl-webapi
+- name: <docker-id>/ambulance-wl-webapi
   newName: matejdrienovsky/ambulance-wl-webapi
   newTag: 1.0.3
