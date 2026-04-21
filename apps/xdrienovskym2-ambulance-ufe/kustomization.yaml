@@ -12,3 +12,4 @@ labels:
 - pairs:
     app.kubernetes.io/component: xdrienovskym2-ambulance-ufe
     wac-fiit.github.io/component: frontend
+    wac-fiit.github.io/project: xdrienovskym2-ambulance-wl
